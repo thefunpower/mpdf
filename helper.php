@@ -1,6 +1,4 @@
-<?php 
-
-
+<?php  
 /**
  * 加载pdf，自动判断是否使用了背景文字水印 
  * @param string $text
